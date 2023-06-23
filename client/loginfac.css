@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+.head{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: sticky;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    background-color: rgba(0, 0, 0, 0.05);
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.login{
+    background-color: white;
+    margin-left: 300px;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.login-pic{
+    background-color: white;
+    padding: 150px;
+}
+
+.login-creds{
+    background-color: white;
+    text-align: right;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.login-username{
+    background-color: white;
+}

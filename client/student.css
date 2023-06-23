@@ -1,0 +1,111 @@
+*{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.head{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: sticky;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    background-color: rgba(0, 0, 0, 0.05);
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+/*.container-header{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 10px;
+    border: 100px;
+    border-color: green;
+}
+
+.head-text{
+    text-align: center;
+    font-weight: 100;
+}*/
+
+.header{
+    padding: 10px;
+}
+
+.header-box{
+    background-color: whitesmoke;
+    text-align: right;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header-pic{
+    scale: 70%;
+}
+
+.l1{
+    background-color: whitesmoke;
+    height: 100px;
+    object-fit: contain;
+    flex-direction: column;
+    display: flex;
+    align-items: normal;
+}
+
+.hostel-button{
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 10px;
+    margin-left: 700px;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+}
+
+.hostel-button:hover{
+    opacity: 0.8;
+}
+
+/*.header-text{
+    height: 100px;
+    padding: 10px 10%;
+    position: sticky;
+    object-fit: contain;
+    flex-direction: column;
+    display: flex;
+    align-items: flex-start;
+    background-color: whitesmoke;
+}*/
+
+/*.logo a{
+    font-weight: 900;
+    font-size: 24px;
+    color: rgb(199, 27, 199);
+    ;
+}
+
+.nav{
+    color: black;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 0 28px;
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    height: 100%;
+    width: 80%;
+    background-color: purple;
+}*/

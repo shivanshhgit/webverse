@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+
+.head{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: sticky;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    background-color: rgba(0, 0, 0, 0.05);
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
